@@ -1,5 +1,8 @@
 📊 Sales Dashboard – Power BI Project
 
+![Dashboard Preview]()
+
+
 🚀 Project Overview
 
 The Sales Dashboard is an interactive Power BI project designed to analyze global sales performance across different countries, months, and sales categories.
