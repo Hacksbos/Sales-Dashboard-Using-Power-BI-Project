@@ -1,6 +1,8 @@
-📊 Sales Dashboard – Power BI Project
+📊 Sales Dashboard – Power BI Project<br>
 
-![Dashboard Preview]()
+
+Project Overview
+![Dashboard Preview](https://github.com/Hacksbos/Sales-Dashboard-Using-Power-BI-Project/blob/main/Screenshot%202025-11-16%20010358.png)
 
 
 🚀 Project Overview
